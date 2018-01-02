@@ -1,0 +1,11 @@
+{
+  "bitstamp": {
+      "baseUrl": "https://www.bitstamp.net/api/v2",
+      "tickerUri": "ticker",
+      "interval": 15
+  },
+  "tickers": ["etheur", "btcusd"],
+  "dumpFilePath": "/Users/jorgenogales",
+  "delayThreshold": 120,
+  "httpTimeout": 2
+}
